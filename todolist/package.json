@@ -1,5 +1,5 @@
 {
-  "name": "todolist",
+  "name": "js-c4-2017-todolist",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,8 +7,8 @@
     "dev": "./node_modules/.bin/webpack-dev-server --open --progress"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ilmesi",
+  "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-loader": "^7.0.0",
